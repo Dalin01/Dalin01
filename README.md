@@ -1,9 +1,9 @@
 ### Hey there 👋 , 
-[![linkedin](https://img.icons8.com/fluency/48/000000/linkedin.png)][1]
-[![twitter](https://img.icons8.com/color/48/000000/twitter--v2.png)][2]
-[![facebook](https://img.icons8.com/color/48/000000/facebook.png)][3]
-[![spotify](https://img.icons8.com/doodle/48/000000/spotify.png)][4]
-[![youtube](https://img.icons8.com/ios/50/000000/youtube--v2.png)][5]
+[<img src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png" width="25"/>][1]
+[<img src="https://img.icons8.com/fluency/48/000000/twitter.png" width="25"/>][2]
+[<img src="https://img.icons8.com/fluency/48/000000/facebook.png" width="25"/>][3]
+[<img src="https://img.icons8.com/plasticine/100/000000/spotify--v1.png" width="25"/>][4]
+[<img src="https://img.icons8.com/color/48/000000/youtube-music.png" width="25"/>][5]
 
 Hi, [I'm  Darlington](https://blissful-shannon-adedea.netlify.app/), a passionate full-stack developer in Germany. Just like art, where an artist would create wonderful arts with just a pencil and a piece of paper, so is programming. I can create wonderful and valuable tools that could potentially affect the lives of millions - positively - with just a computer, and a cup of koffee. To me, this is amazing! 
 
