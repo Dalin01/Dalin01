@@ -5,7 +5,7 @@
 [<img src="https://img.icons8.com/plasticine/100/000000/spotify--v1.png" width="25"/>][4]
 [<img src="https://img.icons8.com/color/48/000000/youtube-music.png" width="25"/>][5]
 
-Hi, [I'm  Darlington](https://blissful-shannon-adedea.netlify.app/), a passionate full-stack developer in Germany. Just like art, where an artist would create wonderful arts with just a pencil and a piece of paper, so is programming. I can create wonderful and valuable tools that could potentially affect the lives of millions - positively - with just a computer, and a cup of koffee. To me, this is amazing! 
+Hi, I am Darlington, a passionate full-stack developer in Germany. Just like art, where an artist would create wonderful arts with just a pencil and a piece of paper, so is programming. I can create wonderful and valuable tools that could potentially affect the lives of millions - positively - with just a computer, and a cup of koffee. To me, this is amazing! 
 
 
 - 🔭 I’m currently working on a task management tool - [Taski](https://github.com/Dalin01/taski) - using React, Typescript, PostgreSQL and Express. 
